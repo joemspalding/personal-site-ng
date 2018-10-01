@@ -1,0 +1,21 @@
+header {
+	background: #8A2387;
+	color: #FFFFFF;
+	font-size: 2em;
+}
+
+button.navbar-hamburger {
+	color: #FFFFFF;
+}
+
+.header-links {
+	color: #FFFFFF;
+}
+
+	.header-links:hover {
+		color: #DDDDDD;
+	}
+
+	.header-links:active {
+		color: #AAAAAA;
+	}

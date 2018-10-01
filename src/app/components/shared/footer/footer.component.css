@@ -1,0 +1,13 @@
+footer {
+	background: #FFFFFF;
+	padding-top: 2%;
+	font-size: 1.25em;
+	margin-bottom:2%;
+	text-overflow: ellipsis;
+}
+
+.footer-fa {
+	font-size: 3em;
+	color: #8A2387 !important;
+}
+
